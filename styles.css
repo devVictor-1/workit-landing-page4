@@ -296,6 +296,11 @@ footer{
 }
 
 @media(max-width:768px){
+
+    nav .logo p, .nav-cta a{
+        font-size: 20px;
+    }
+
     .hero-image img{
         width: 80%;
         height: 400px;
