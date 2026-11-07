@@ -79,7 +79,7 @@ nav .logo p{
 }
 
 .hero-text h1{
-    font-size: clamp(5rem, 40%, 8rem);
+    font-size: clamp(6rem, 40%, 8rem);
     line-height: 1;
     color: white;
     padding: 20px 0 50px;
@@ -349,7 +349,7 @@ footer{
     }
 
     .hero-text h1{
-        font-size: clamp(3rem, 40%, 5rem);
+        font-size: clamp(2.8rem, 40%, 5rem);
     }
     
     .hero-image img{
